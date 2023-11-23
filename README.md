@@ -3,7 +3,7 @@
 ### Meine Firma: [Macht und Nußbaum GbR](https://machtundnussbaumgbr.de)
 
 ## Meine Skills als Full Stack Entwickler und Selbstständiger:
-[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,aws,blender,azure,bootstrap,cpp,dotnet,eclipse,tailwind,gamemakerstudio,github,godot,linkedin,mysql,mongodb,ps,php,powershell,processing,py,raspberrypi,regex,sqlite,stackoverflow,sketchup,swift,unity,unreal,visualstudio,vscode,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,aws,blender,azure,bootstrap,cpp,cs,dotnet,eclipse,tailwind,linux,gamemakerstudio,github,godot,linkedin,mysql,mongodb,ps,php,docker,powershell,processing,py,raspberrypi,regex,sqlite,stackoverflow,sketchup,swift,unity,unreal,visualstudio,vscode,wordpress)](https://skillicons.dev)
 <!--
 **GoetzMight/GoetzMight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
