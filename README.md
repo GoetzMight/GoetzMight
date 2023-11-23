@@ -1,6 +1,7 @@
 ## Hi, ihr Lieben da draußen 👋
 
 ### Meine Firma: [Macht und Nußbaum GbR](https://machtundnussbaumgbr.de)
+
 ## Meine Skills als Full Stack Entwickler und Selbstständiger:
 [![My Skills](https://skillicons.dev/icons?i=java,js,html,css,aws,blender,azure,bootstrap,cpp,dotnet,eclipse,gamemakerstudio,github,godot,linkedin,mysql,mongodb,ps,php,powershell,processing,py,raspberrypi,regex,sqlite,stackoverflow,sketchup,swift,unity,unreal,visualstudio,vscode,wordpress)](https://skillicons.dev)
 <!--
