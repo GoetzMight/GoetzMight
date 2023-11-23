@@ -5,7 +5,7 @@
 ## Meine Skills als Full Stack Entwickler und Selbstständiger:
 [![My Skills](https://skillicons.dev/icons?i=java,js,html,css,aws,blender,azure,bootstrap,cpp,cs,dotnet,eclipse,tailwind,linux,gamemakerstudio,github,godot,linkedin,mysql,mongodb,ps,php,docker,powershell,processing,py,raspberrypi,regex,sqlite,stackoverflow,sketchup,swift,unity,unreal,visualstudio,vscode,wordpress)](https://skillicons.dev)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoetzMight&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoetzMight&show_icons=true&theme=holi)
 <!--
 **GoetzMight/GoetzMight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
