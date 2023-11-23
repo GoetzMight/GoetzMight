@@ -1,12 +1,7 @@
 ### Hi there 👋
 
-### Ich bin seit über 15 Jahren in der IT branche und habe mich von einem HTML only Fan zu
-einen Full Stack Entwickler entwicklet. ;-)
-
-Ich liebe meine eigene Firma die ich mit meinem Freund seit 2011 führe.
-
-Hier mal eine Liste von den IT relevanten Hardskills, die ich mir während meiner Selbständigkeit
-in der Firma aber auch Einzelunternehmer angeeignet habe.
+### Meine Firma: [Macht und Nußbaum GbR](https://machtundnussbaumgbr.de)
+##Meine Skills als Full Stack Entwickler und Selbstständiger:
 [![My Skills](https://skillicons.dev/icons?i=java,js,html,css,aws,blender,azure,bootstrap,cpp,dotnet,eclipse,gamemakerstudio,github,godot,linkedin,mysql,mongodb,ps,php,powershell,processing,py,raspberrypi,regex,sqlite,stackoverflow,sketchup,swift,unity,unreal,visualstudio,vscode,wordpress)](https://skillicons.dev)
 <!--
 **GoetzMight/GoetzMight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
