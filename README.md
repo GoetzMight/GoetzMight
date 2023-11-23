@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi, ihr Lieben da draußen 👋
 
 ### Meine Firma: [Macht und Nußbaum GbR](https://machtundnussbaumgbr.de)
 ## Meine Skills als Full Stack Entwickler und Selbstständiger:
