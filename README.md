@@ -2,7 +2,7 @@
 
 ### Meine Firma: [Macht und Nußbaum GbR](https://machtundnussbaumgbr.de)
 
-## Meine Skills als Full Stack Entwickler und Selbstständiger:
+# Meine Skills als Full Stack Entwickler und Selbstständiger:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,js,html,css,aws,blender,azure,bootstrap,cpp,cs,dotnet,eclipse,tailwind,linux,gamemakerstudio,github,godot,linkedin,mysql,mongodb,ps,php,docker,powershell,processing,py,raspberrypi,regex,sqlite,stackoverflow,sketchup,swift,unity,unreal,visualstudio,vscode,wordpress" />
@@ -12,7 +12,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,js,html,css,aws,blender,azure,bootstrap,cpp,cs,dotnet,eclipse,tailwind,linux,gamemakerstudio,github,godot,linkedin,mysql,mongodb,ps,php,docker,powershell,processing,py,raspberrypi,regex,sqlite,stackoverflow,sketchup,swift,unity,unreal,visualstudio,vscode,wordpress)](https://skillicons.dev)
 -->
 
-### Meine GitHub-Statistiken
+# Meine GitHub-Statistiken:
 
 Ich bin erst seit diesem Jahr hier auf der Plattform (Wir haben vorher andere Lösungen wie [TortoiseSVN](https://tortoisesvn.net/index.de) verwendet) also nicht wundern, wenn es hier noch etwas leer aussieht.🫥
 
