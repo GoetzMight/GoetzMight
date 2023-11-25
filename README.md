@@ -1,7 +1,7 @@
 <div>
 <h1 align="center">Hi, ihr Lieben da draußen 👋</h1>
 
-<h2>Ein bisschen was zu mir:</h2>
+<h2 align="center">Ein bisschen was zu mir:</h2>
 <p>Ich bin schon seit über 15 Jahren Programmierer und habe schon fasst alles in dem Bereich Softwareentwicklung gemacht. <br /><br /> Seien es jetzt Spiele, Windows-App, Office-Add-Ins (VBA), Wordpress-Erweiterungen oder einfach nur Internetseiten, ich habe es schon gecoded. Sowohl die ganzen Front-End wie auch die dazugehörigen Back-End Lösungen habe ich programmiert und engineered.<br /> Mit anderen Worten: Ich bin ein Full-Stack Programmierer durch und durch, der es liebt sich in neue Systeme reinzuarbeiten und mit einem Team eine Lösung für Probleme zu erstellen, die keiner alleine von uns so hinbekommen hätte!</p>
 <p>2011 habe ich meine eigene Firma mit meinem längjährigen Freund gegründet, mit der ich mein Geld verdiene und alle die Ideen ausprobieren kann, die mir und ihm einfallen.</p>
  
