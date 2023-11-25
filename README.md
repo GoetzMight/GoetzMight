@@ -1,5 +1,5 @@
 <div>
-Hi, ihr Lieben da draußen 👋
+<h1>Hi, ihr Lieben da draußen 👋</h1>
 
 ### Meine Firma: [Macht und Nußbaum GbR](https://machtundnussbaumgbr.de)
 
