@@ -1,9 +1,9 @@
 <style type="text/css">
 h1{
- align:center;
+ text-align:center;
 }
 h2{
- align:center;
+ text-align:center;
 }
 </style>
 <div>
