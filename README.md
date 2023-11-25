@@ -1,4 +1,5 @@
-# Hi, ihr Lieben da draußen 👋
+<div>
+Hi, ihr Lieben da draußen 👋
 
 ### Meine Firma: [Macht und Nußbaum GbR](https://machtundnussbaumgbr.de)
 
@@ -16,7 +17,9 @@
 
 Ich bin erst seit diesem Jahr hier auf der Plattform (Wir haben vorher andere Lösungen wie [TortoiseSVN](https://tortoisesvn.net/index.de) verwendet) also nicht wundern, wenn es hier noch etwas leer aussieht. 🥴
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoetzMight&show_icons=true&theme=github_dark_dimmed&hide=issues&bg_color=242938&locale=de&border_radius=11&hide_border=true&rank_icon=github) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GoetzMight&layout=donut&bg_color=242938&locale=de&border_radius=11&hide_border=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoetzMight&show_icons=true&theme=github_dark_dimmed&hide=issues&bg_color=242938&locale=de&border_radius=11&hide_border=true&rank_icon=github) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GoetzMight&layout=donut&bg_color=242938&locale=de&border_radius=11&hide_border=true)  
+</div>
+
 <!--
 **GoetzMight/GoetzMight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
