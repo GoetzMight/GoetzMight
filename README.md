@@ -1,3 +1,11 @@
+<style type="text/css">
+h1{
+ text-align:center;
+}
+h2{
+ text-align:center;
+}
+</style>
 <div>
 <h1 align="center">Hi, ihr Lieben da draußen 👋</h1>
 
