@@ -25,7 +25,7 @@
  
  <h2 align="center">Meine GitHub-Statistiken:</h2>
  <p>
-   Ich bin erst seit diesem Jahr hier auf der Plattform (Wir haben vorher andere Lösungen wie <a href="https://tortoisesvn.net/index.de">TortoiseSVN</a> verwendet) also nicht wundern, wenn es hier noch etwas leer aussieht. 🥴<br />
+   Ich bin erst seit diesem Jahr hier auf der Plattform (Wir haben vorher andere Lösungen wie <a href="https://tortoisesvn.net/index.de">TortoiseSVN</a> verwendet) also nicht wundern, wenn es hier noch etwas leer aussieht. 🥴<br /><br />
    <a href="https://github.com/anuraghazra/github-readme-stats">
      <img align="center" src="https://github-readme-stats.vercel.app/api?username=GoetzMight&show_icons=true&theme=github_dark_dimmed&hide=issues&bg_color=242938&locale=de&border_radius=11&hide_border=true&rank_icon=github" />
    </a>
