@@ -8,7 +8,10 @@
  <h2 align="center">Meine Dev Skills als Full Stack Entwickler</h2> 
  <p align="center">
    <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?perline=3&i=java,js,html,css,aws,blender,azure,bootstrap,cpp,cs,dotnet,eclipse,tailwind,linux,github,linkedin,mysql,mongodb,ps,php,docker,powershell,processing,py,raspberrypi,regex,sqlite,stackoverflow,sketchup,swift,visualstudio,vscode,wordpress" />
+     <img src="https://skillicons.dev/icons?i=java,js,html,css,aws,blender,azure,bootstrap,cpp,cs,dotnet,eclipse,tailwind,linux,github,linkedin,mysql,mongodb,ps,php,docker,powershell,processing,py,raspberrypi,regex,sqlite,stackoverflow,sketchup,swift,visualstudio,vscode,wordpress" />
+   </a>  
+   <a href="https://skillicons.dev">
+     <img src="https://skillicons.dev/icons?i=java,js,html,css,aws,blender,azure,bootstrap,cpp,cs,dotnet,eclipse,tailwind,linux,github,linkedin,mysql,mongodb,ps,php,docker,powershell,processing,py,raspberrypi,regex,sqlite,stackoverflow,sketchup,swift,visualstudio,vscode,wordpress" />
    </a>
  </p>
  
