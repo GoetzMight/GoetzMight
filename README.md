@@ -26,10 +26,10 @@
  <h2 align="center">Meine GitHub-Statistiken:</h2>
  <p>Ich bin erst seit diesem Jahr hier auf der Plattform (Wir haben vorher andere Lösungen wie <a href="https://tortoisesvn.net/index.de">TortoiseSVN</a> verwendet) also nicht wundern, wenn es hier noch etwas leer aussieht. 🥴 </p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200px width=400px align="center" src="https://github-readme-stats.vercel.app/api?username=GoetzMight&show_icons=true&theme=github_dark_dimmed&hide=issues&bg_color=242938&locale=de&border_radius=11&hide_border=true&rank_icon=github" />
+  <img height=300px width=380px align="center" src="https://github-readme-stats.vercel.app/api?username=GoetzMight&show_icons=true&theme=github_dark_dimmed&hide=issues&bg_color=242938&locale=de&border_radius=11&hide_border=true&rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200px width=320px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoetzMight&layout=donut&bg_color=242938&locale=de&border_radius=11&hide_border=true" />
+  <img height=300px width=320px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoetzMight&layout=donut&bg_color=242938&locale=de&border_radius=11&hide_border=true" />
 </a>
  <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
