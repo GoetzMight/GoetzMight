@@ -8,19 +8,16 @@
  <h2 align="center">Meine Dev Skills als Full Stack Entwickler</h2> 
  <p align="center">
    <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=java,js,html,css,aws,blender,azure,bootstrap,cpp,cs,dotnet,eclipse,tailwind,linux,github,linkedin,mysql,mongodb,ps,php,docker,powershell,processing,py,raspberrypi,regex,sqlite,stackoverflow,sketchup,swift,visualstudio,vscode,wordpress" />
+     <img src="https://skillicons.dev/icons?perline=15&i=java,js,html,css,aws,blender,azure,bootstrap,cpp,cs,dotnet,eclipse,tailwind,linux,github,linkedin,mysql,mongodb,ps,php,docker,powershell,processing,py,raspberrypi,regex,sqlite,stackoverflow,sketchup,swift,visualstudio,vscode,wordpress" />
    </a>
  </p>
  
  <h2 align="center"> Zusätzliche Dev Skills als Spieleentwickler</h2>
  <p align="center">
    <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=blender,gamemakerstudio,godot,unity,unreal" />
+     <img src="https://skillicons.dev/icons?i=gamemakerstudio,godot,unity,unreal" />
    </a>
  </p>
- <!--
- [![My Skills](https://skillicons.dev/icons?i=java,js,html,css,aws,blender,azure,bootstrap,cpp,cs,dotnet,eclipse,tailwind,linux,gamemakerstudio,github,godot,linkedin,mysql,mongodb,ps,php,docker,powershell,processing,py,raspberrypi,regex,sqlite,stackoverflow,sketchup,swift,unity,unreal,visualstudio,vscode,wordpress)](https://skillicons.dev)
- -->
  
  <h2 align="center">Meine GitHub-Statistiken:</h2>
  <p>Ich bin erst seit diesem Jahr hier auf der Plattform (Wir haben vorher andere Lösungen wie <a href="https://tortoisesvn.net/index.de">TortoiseSVN</a> verwendet) also nicht wundern, wenn es hier noch etwas leer aussieht. 🥴 </p>
