@@ -12,10 +12,10 @@
    </a>
  </p>
  
- <h2 align="center"> Meine Dev Skills als Spieleentwickler</h2>
+ <h2 align="center"> Zusätzliche Dev Skills als Spieleentwickler</h2>
  <p align="center">
    <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=blender,gamemakerstudio,godot,swift,unity,unreal" />
+     <img src="https://skillicons.dev/icons?i=blender,gamemakerstudio,godot,unity,unreal" />
    </a>
  </p>
  <!--
