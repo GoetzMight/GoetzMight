@@ -11,7 +11,7 @@
      <img src="https://skillicons.dev/icons?i=java,js,html,css,aws,blender,azure,bootstrap,cpp,cs,dotnet,eclipse,tailwind,linux,github,linkedin,mysql,mongodb,ps,php,docker,powershell,processing,py,raspberrypi,regex,sqlite,stackoverflow,sketchup,swift,visualstudio,vscode,wordpress" />
    </a>  
    <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=java,js,html,css,aws,blender,azure,bootstrap,cpp,cs,dotnet,eclipse,tailwind,linux,github,linkedin,mysql,mongodb,ps,php,docker,powershell,processing,py,raspberrypi,regex,sqlite,stackoverflow,sketchup,swift,visualstudio,vscode,wordpress" />
+     <img src="https://skillicons.dev/icons?i=visualstudio,vscode,wordpress" />
    </a>
  </p>
  
