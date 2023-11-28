@@ -15,7 +15,7 @@
  <h2 align="center"> Meine Dev Skills als Spieleentwickler</h2>
  <p align="center">
    <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=java,azure,cpp,cs,py,dotnet,aws,blender,gamemakerstudio,github,godot,mysql,mongodb,processing,raspberrypi,regex,sqlite,ps,stackoverflow,swift,unity,unreal,eclipse,visualstudio,vscode" />
+     <img src="https://skillicons.dev/icons?i=blender,gamemakerstudio,godot,swift,unity,unreal" />
    </a>
  </p>
  <!--
