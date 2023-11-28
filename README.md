@@ -29,7 +29,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GoetzMight&show_icons=true&theme=github_dark_dimmed&hide=issues&bg_color=242938&locale=de&border_radius=11&hide_border=true&rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoetzMight&layout=donut&bg_color=242938&locale=de&border_radius=11&hide_border=true&card_width=100" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoetzMight&layout=donut&bg_color=242938&locale=de&border_radius=11&hide_border=true&card_width=500" />
 </a>
  <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
