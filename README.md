@@ -1,5 +1,5 @@
 <div>
- <h1 align="center">Hi, ihr Lieben da draußen 👋</h1>
+ <h1 align="center">Hi, ihr Lieben da draußen! 👋</h1>
  
  <h2 align="center">Ein bisschen was zu mir:</h2>
  <p>Ich bin schon seit über 15 Jahren Programmierer und habe schon fasst alles in dem Bereich Softwareentwicklung gemacht. <br /><br /> Seien es jetzt Spiele, Windows/MacIOS-App, Office-Add-Ins (VBA), Wordpress-Erweiterungen oder einfach nur Internetseiten, ich habe es schon gecoded. Sowohl die ganzen Front-End wie auch die dazugehörigen Back-End Lösungen habe ich programmiert und engineered.<br /> Mit anderen Worten: Ich bin ein Full-Stack Programmierer durch und durch, der es liebt sich in neue Systeme reinzuarbeiten und mit einem Team eine Lösung für Probleme zu erstellen, die keiner alleine von uns so hinbekommen hätte!</p>
@@ -34,7 +34,12 @@
      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoetzMight&layout=donut&bg_color=242938&locale=de&border_radius=11&hide_border=true" />
    </a>
 </p>
-<h2 align="center">Meine GitHub-Statistiken:</h2>
+
+<h2 align="center">Meine aktuellen Projekte:</h2>
+<p>
+  Meine eigene Homepage (goetzmacht.de) auf Vordermann bringen und dafür muss ich alles anfassen und keinen Stein unumgedreht lassen!
+  Außerdem finde ich, ist sowas ein gutes Projekt um mit GitHub warm zu werden! 🫶
+</p>
  <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
